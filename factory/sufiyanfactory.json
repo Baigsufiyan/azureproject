@@ -1,0 +1,15 @@
+{
+	"name": "sufiyanfactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6def7194-ee0c-4ebf-a0a0-4dc835438783",
+		"tenantId": "f7311301-85d2-458b-8a42-69b205323c98"
+	}
+}
